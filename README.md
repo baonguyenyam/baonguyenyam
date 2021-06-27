@@ -1,4 +1,4 @@
-![https://baonguyenyam.github.io](https://raw.githubusercontent.com/baonguyenyam/baonguyenyam/main/main.png "Resume")
+<a target="_blank" rel="noopener noreferrer" href="https://baonguyenyam.github.io"><img src="https://raw.githubusercontent.com/baonguyenyam/baonguyenyam/main/main.png" alt="https://baonguyenyam.github.io" title="Resume" style="max-width:100%;"></a>
 
 *****
 
