@@ -2,12 +2,23 @@
 
 ![](https://komarev.com/ghpvc/?username=baonguyenyam&color=blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=baonguyenyam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
+<br/>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=baonguyenyam&&style=flat-square" align="center" />
+</div>
+
+<br/>
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/baonguyenyam" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+                    align="center"
+                />
+            </a></div>
+<br />
