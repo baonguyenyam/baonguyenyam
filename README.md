@@ -4,7 +4,7 @@
 
 ### Hi there, I'm <a href="https://baonguyenyam.github.io" target="_blank">Nguyen Pham</a>
 
-- **My Website:** https://baonguyenyam.github.io
+- **![My Website](https://baonguyenyam.github.io)** 
 - **My CV:** https://baonguyenyam.github.io/cv
 
 *****
