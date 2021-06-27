@@ -6,4 +6,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=baonguyenyam&show_icons=true&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyenyam&layout=compact)(https://github.com/baonguyenyam/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baonguyenyam&layout=compact)
