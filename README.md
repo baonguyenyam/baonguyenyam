@@ -1,4 +1,4 @@
-![https://baonguyenyam.github.io](https://raw.githubusercontent.com/baonguyenyam/baonguyenyam/main/main.png)
+[![][https://raw.githubusercontent.com/baonguyenyam/baonguyenyam/main/main.png]][https://baonguyenyam.github.io]
 
 *****
 
