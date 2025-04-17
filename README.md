@@ -5,7 +5,6 @@
 ### Hi there, I'm [Nguyen Pham](https://baonguyenyam.github.io)
 
 - **[My Website](https://nguyenpham.pro)** 
-- **[My Résumé](https://nguyenpham.pro/cv)** 
 
 *****
 
