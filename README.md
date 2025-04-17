@@ -2,7 +2,7 @@
 
 *****
 
-### Hi there, I'm [Nguyen Pham](https://baonguyenyam.github.io)
+### Hi there, I'm [Nguyen Pham](https://baonguyenyam.github.io) author of [nPlatform](https://github.com/baonguyenyam/nPlatform)
 
 - **[My Website](https://nguyenpham.pro)** 
 
