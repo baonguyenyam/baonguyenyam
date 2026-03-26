@@ -10,7 +10,7 @@ I am an AI Fullstack Engineer with over 20 years of experience in coding and web
 
 Beyond web development, I also build AI and Machine Learning applications to automate daily workflows, collect and process data, train predictive models, and turn raw information into business insight.
 
-- **[My Website](https://nguyenpham.pro)** 
+**[My Website](https://nguyenpham.pro)** 
 
 *****
 
