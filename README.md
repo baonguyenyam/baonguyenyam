@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer" href="https://baonguyenyam.github.io"><img src="https://raw.githubusercontent.com/baonguyenyam/baonguyenyam/main/main.png" alt="https://baonguyenyam.github.io" title="Resume" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://baonguyenyam.pro"><img src="https://nguyenpham.pro/images/cover3.png" alt="https://baonguyenyam.github.io" title="Resume" style="max-width:100%;"></a>
 
 *****
 
